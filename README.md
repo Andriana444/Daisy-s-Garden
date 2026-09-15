@@ -1,16 +1,35 @@
 
-# Daisy-s-Garden
-Re-imagined Space Invaders game. 
-This project utilizes the basic functions of a Space Invaders game  while expanding upon newer features such as the following:
-* character customization, using .png and .gif files to personalize the frontend development of the game
-* lives function, 3 hearts are used to function as extra lives 
-* our error handling in functions include key bindings, check for lives, and alien collision
+# Daisy's Garden
 
-# external libraries 
-About Turtle 
-* creates basic graphics and imagery in the game environment
-About Random
-* random module spawns "aliens" in random positions within window boundaries
+A 2D game built in Python using Pygame, featuring core gameplay systems including player movement and a health bar system.
+
+## 🚧 Status: Actively Being Redeveloped
+
+This project was originally built with a team of 3 in Fall 2024. I'm currently redeveloping it solo to expand and improve on the original build. **The code in this repo is a work in progress and may not run cleanly right now** — here's what I'm actively working on:
+
+- [ ] Rebuilding the movement system for smoother, more responsive controls
+- [ ] Adding a start screen
+- [ ] Developing new levels
+- [ ] Fixing runtime issues so the game runs end-to-end
+
+## About the Original Build (Fall 2024)
+
+Built collaboratively with a team of 3. Core systems implemented:
+- Player movement
+- Health bar system
+
+## Tech Stack
+
+- **Language:** Python
+- **Library:** Pygame
+
+## Why I'm Revisiting This
+
+I wanted to apply skills I've picked up since the original build — in gameplay systems design, debugging, and project scoping — to take this project further than the original scope and get it to a fully playable state.
+
+---
+
+*Last updated: September 2026*
 
 # PyCharm files 
 place the following  image file into directory in PyCharm (preferrably) for code to run:
